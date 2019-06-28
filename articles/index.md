@@ -1,4 +1,4 @@
-# Azure 203 version 2.1
+# Azure 203 version 2.2
 
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
 
